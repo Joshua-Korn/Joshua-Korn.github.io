@@ -114,6 +114,13 @@ $(document).ready(function(){
 $(document).ready(function(){
     var projects = [
         {
+            "name": "jp",
+            "eight": "Train machine learning models to identify Japanese handwritten elements.", 
+            "nine": "Languages > Japanese, English",
+            "ten": "Framework > React",
+            "eleven": "Tools > Handwriting Data Collector"
+        },
+        {
             "name": "flask",
             "eight": "Application for teachers to share their lesson plans.", 
             "nine": "Languages > HTML, CSS, JavaScript, Python",
